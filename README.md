@@ -1,3 +1,3 @@
 # sentimentanalysis
-Source Code Python For Sentiment Analysis of Gojek Application Reviews
-Using Support Vector Machine and Naive Bayes as a comparison algorithm
+Source Code Python for Sentiment Analysis of Gojek Application Reviews
+using Support Vector Machine and Naive Bayes as a comparison algorithm
